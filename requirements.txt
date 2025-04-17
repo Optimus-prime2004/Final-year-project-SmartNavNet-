@@ -1,0 +1,6 @@
+streamlit
+roboflow
+pillow
+numpy
+pyarrow
+
